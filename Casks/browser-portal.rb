@@ -1,8 +1,8 @@
 cask "browser-portal" do
-  version "0.1.5"
-  sha256 "0fa34c63171464d7d83e3271070f8987dae44fb9201592cc8b802925ad703c85"
+  version "0.1.6"
+  sha256 "5181c874159d3c6da02cd7b7f40d820604c262c07ea37fe81b849228fe1cb174"
 
-  url "https://github.com/kunalpowar/browser-portal/releases/download/v0.1.5/Browser.Portal-v0.1.5.zip"
+  url "https://github.com/kunalpowar/browser-portal/releases/download/v0.1.6/Browser.Portal-v0.1.6.zip"
   name "Browser Portal"
   desc "Routes links into the right Google Chrome profile"
   homepage "https://github.com/kunalpowar/browser-portal"
